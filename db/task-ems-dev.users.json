@@ -1,0 +1,12 @@
+{ 
+    "_id" : ObjectId("5c5597b8cfa5377e5899f627"), 
+    "name" : "kishore", 
+    "dob" : ISODate("1990-01-07T18:30:00.000+0000"), 
+    "profileImage" : "https://yt3.ggpht.com/a-/AAuE7mDaIPSwLi2eUtSdUZ0Knhmpfg6vTCe09VKiLw=s900-mo-c-c0xffffffff-rj-k-no", 
+    "hashedPassword" : "0PzHMjfLLEzxdo5XXFWLvmi1CwrKyLcli673OoFyIM4jAlk18IoXT5e2keHlozfPV6i+iYYK5hnl5mIYH57IIg==", 
+    "salt" : "fyiBYcjz0NMjvt2KObyzJg==", 
+    "address" : "hyd", 
+    "status" : true, 
+    "role" : "admin", 
+    "__v" : NumberInt(0)
+}
